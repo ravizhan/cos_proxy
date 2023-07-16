@@ -1,4 +1,4 @@
-module cos_proxy
+module github.com/ravizhan/cos_proxy
 
 go 1.20
 

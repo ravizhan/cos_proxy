@@ -12,7 +12,8 @@
 
 - 源码编译
 ```shell
-go get github.com/ravizhan/cos_proxy
+git clone github.com/ravizhan/cos_proxy
+cd cos_proxy
 go build
 ```
 ### 运行
